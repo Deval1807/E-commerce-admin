@@ -53,6 +53,7 @@ export async function POST(req: Request) {
         });
 
         // Archive the products, which are bought
+        /*
         const productIds = order.orderItems.map((orderItem) => orderItem.productId);
 
         await prismadb.product.updateMany({
@@ -65,6 +66,7 @@ export async function POST(req: Request) {
                 isArchived: true
             }
         });
+        */
     }
 
     return new NextResponse(null, { status: 200 }); 
