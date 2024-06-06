@@ -12,7 +12,7 @@ export default async function SetupLayout({
 
     if(!userId) {
         redirect('/sign-in');
-    }
+    } 
 
     // Here we dont have any specific storeId 
     // Therefore we load any (the first) store with currently logged in user
@@ -28,6 +28,7 @@ export default async function SetupLayout({
     }
 
     // otherwise
+    
 
     return(
         <>
