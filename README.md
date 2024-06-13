@@ -2,6 +2,15 @@
 
 This is the repository for the Admin Dashboard, a secure CMS for managing the e-commerce store. It includes features for efficient store management and secure authorization.
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Tech Stack](#tech-stack)
+3. [Getting Started](#getting-started)
+4. [Deployment](#deployment)
+5. [Contribution](#contributing)
+6. [Contact](#contact)
+
 ## Features
 
 - Secure authorization for admin access through Clerk
