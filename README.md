@@ -65,7 +65,7 @@ This is the repository for the Admin Dashboard, a secure CMS for managing the e-
 
 4. Run database migrations:
     ```bash
-    npx prisma generate
+    npx prisma migrate dev
     ```
 
 5. Start the development server:
