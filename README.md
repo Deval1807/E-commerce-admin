@@ -19,6 +19,10 @@ This is the repository for the Admin Dashboard, a secure CMS for managing the e-
 
 ## Getting Started
 
+### Frontend Store link:
+- Repo: https://github.com/Deval1807/E-commerce-store
+- Hosted frontend: https://github.com/Deval1807/E-commerce-store
+
 ### Prerequisites
 
 - Node.js
