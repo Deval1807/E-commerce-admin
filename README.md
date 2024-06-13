@@ -83,6 +83,9 @@ This is the repository for the Admin Dashboard, a secure CMS for managing the e-
 
 You can find the deployed site at: https://e-commerce-admin-jade-psi.vercel.app/
 
+- If you do not wish to signup and create your own store and add products, and want to see how the admin dashboard looks, you can check out the basic overiew of the sample store I created from the below link:
+- [Sample Overview of Admin Dashboard](https://drive.google.com/file/d/123liHe1rsq5rsb0HWzJS_nRjLXk_2IGm/view?usp=sharing)
+
 ## Contributing
 
 We welcome contributions from the community. To contribute, please fork the repository, create a new branch, and submit a pull request. Make sure to follow the coding standards and ethical practices.
